@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Eu sou Geovanna Gonçalves 👋
 
-<!--
-**GeovannaGoncalves/GeovannaGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- Tenho experiência nas áreas de administração, design gráfico e gerenciamento de e-commerce.
+- Sou estudante de Análise e Desenvolvimento de Sistemas.
+- Estou em transição para a área de Análise de Dados.
+- Atualmente, estudo Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias em aprendizado
+
+- Python
+- Lógica de programação
+
+## Interesses
+
+- Análise de Dados
+- Automação com Python
+- Business Intelligence
+- Tecnologia aplicada ao e-commerce
+
+## Projetos
+
+Meus primeiros projetos em Python estão em desenvolvimento e serão publicados aqui.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/geovannagonçalves)
